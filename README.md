@@ -4,13 +4,15 @@
 
 [下载最新版](https://github.com/imnotjccc/PaperGT-Releases/releases/latest)
 
-![PaperGT 编辑器分组阅读](screenshots/papergt-v0.3.0.png)
+![PaperGT 多标签编辑器](screenshots/papergt-v0.3.1.png)
 
 ## 主要功能
 
 - 打开本地 PDF 文件夹，在资源管理器中按原目录层级浏览论文
+- 每个编辑器组支持多个论文标签，可分别切换、关闭或拖到另一组
 - 在读、已读、收藏、阅读进度和按页笔记保存在本机
 - 单页或双页显示；将论文拖到主区域左右两侧可在同一窗口分屏对照
+- 将分屏标签拖回另一组即可合并，空分屏会自动收起
 - 拖动分隔线调整资源管理器、两个 PDF 编辑器与 AI / 笔记侧栏宽度
 - 当前可见页搜索，以及使用自己的 OpenAI API Key 进行问答
 - Windows Setup 安装版支持应用内更新
