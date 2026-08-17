@@ -4,13 +4,14 @@
 
 [下载最新版](https://github.com/imnotjccc/PaperGT-Releases/releases/latest)
 
-![PaperGT 双页阅读](screenshots/papergt-v0.2.2.png)
+![PaperGT 编辑器分组阅读](screenshots/papergt-v0.3.0.png)
 
 ## 主要功能
 
-- 打开本地 PDF 文件夹，使用三栏界面整理和阅读论文
+- 打开本地 PDF 文件夹，在资源管理器中按原目录层级浏览论文
 - 在读、已读、收藏、阅读进度和按页笔记保存在本机
-- 单页或双页显示，并可打开独立窗口对照另一篇 PDF
+- 单页或双页显示；将论文拖到主区域左右两侧可在同一窗口分屏对照
+- 拖动分隔线调整资源管理器、两个 PDF 编辑器与 AI / 笔记侧栏宽度
 - 当前可见页搜索，以及使用自己的 OpenAI API Key 进行问答
 - Windows Setup 安装版支持应用内更新
 
