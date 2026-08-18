@@ -4,7 +4,7 @@
 
 [下载最新版](https://github.com/imnotjccc/PaperGT-Releases/releases/latest)
 
-![PaperGT 标签页搜索](screenshots/papergt-v0.3.2.png)
+![PaperGT 精确搜索高亮](screenshots/papergt-v0.3.4.png)
 
 ## 主要功能
 
@@ -14,10 +14,11 @@
 - 单页或双页显示；将论文拖到主区域左右两侧可在同一窗口分屏对照
 - 将分屏标签拖回另一组即可合并，空分屏会自动收起
 - 拖动分隔线调整资源管理器、两个 PDF 编辑器与 AI / 笔记侧栏宽度
-- Ctrl+F 查找当前可见页，在 PDF 原文高亮并逐处浏览匹配
+- Ctrl+F 查找当前可见页，以贴合原文的高亮逐处浏览匹配，缩放后自动恢复
 - 设置作为编辑器标签打开，集中展示工作区、OpenAI、更新和快捷键
+- 右侧翻译栏支持整页或矩形框选翻译，英中模型与扫描页 OCR 在本机运行
 - 使用自己的 OpenAI API Key 针对当前可见页提问
-- Windows Setup 安装版支持应用内更新
+- Windows Setup 安装版支持应用内更新，更新完成后展示本次版本日志
 
 ## 选择下载文件
 
